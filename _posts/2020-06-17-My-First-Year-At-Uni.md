@@ -2,7 +2,7 @@
 layout: post
 title: My first year at uni
 subtitle: Tales of a bored 18 year old
-cover-img: /assets/img/me.jpg
+cover-img: /assets/img/path.jpg
 tags: [university, lifestyle]
 ---
 
